@@ -12,5 +12,5 @@ class window.app.Library extends Backbone.Collection
   # /api/books/:id  DELETE       Delete the book with id of :id
   #
 
-	model : window.app.Book
-	url   : '/api/books'
+  model : window.app.Book
+  url   : '/api/books'
